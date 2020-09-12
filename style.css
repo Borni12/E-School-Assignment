@@ -1,0 +1,39 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    max-width: 100%;
+}
+
+.nav-link{
+    text-decoration: none;
+    font-weight: bold;
+    padding-right: 10px;
+}
+
+.navbar-custom {
+    background-color: #F0FFF0;;
+}
+.row-1{
+    padding-left: 20px;
+}
+.row .row-2{
+    width: 100px;
+}
+.button{
+    padding: 5 10px 5px 10px;
+}
+
+
+.page-one{
+    background-color: #F0FFF0;;
+}
+
+.mt-4{
+    padding-top: 35px;
+}
+
+.ml-5{
+    padding-left: 60px;
+}
+.pl-5{
+    padding-left: 20px;
+}
